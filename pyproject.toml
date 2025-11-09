@@ -10,13 +10,11 @@ authors = [
 ]
 description = "Parse and model ASAP2 A2L files with bidirectional conversion"
 readme = "README.md"
-license = {text = "MIT"}
+license = "MIT"
 keywords = ["asap2", "a2l", "parser", "automotive", "ecul", "xcp", "calibration"]
 classifiers = [
     "Development Status :: 3 - Alpha",
     "Intended Audience :: Developers",
-    "Intended Audience :: Automotive Industry",
-    "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3.8",
